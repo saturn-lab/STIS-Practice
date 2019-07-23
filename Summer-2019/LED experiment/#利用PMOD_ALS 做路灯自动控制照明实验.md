@@ -4,7 +4,7 @@
 
 ​    如图
 
-​	![avatar](.\20190722155742.jpg)
+​	![avatar](20190722155742.jpg)
 
  再编辑代码，我的代码已经上传到Jupyter的example文件夹，代码文件是【PMOD_ALS by hejinhua】
 
