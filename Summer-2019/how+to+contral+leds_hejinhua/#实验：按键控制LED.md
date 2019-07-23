@@ -9,7 +9,7 @@
 1.2配置静态IP
 
 为了能访问FPGA板子的一些文件，包括必要的库文件，还需要配置静态IP，我使用的是windows 10的系统，因此我可以让FPGA板子通过网络连接到电脑，设置电脑的IP 地址，参考 Assign your
-PC/Laptop a static IP address，将网络线连接到电脑之后，再打开 http://192.168.2.99:9090。输入用户名及密码xilinx，即可进入Jupyter 页面。
+PC/Laptop a static IP address，将网络线连接到电脑之后，再打开http://192.168.2.99:9090 ,输入用户名及密码xilinx,即可进入Jupyter页面
 
 2.新建并且编辑代码
 
