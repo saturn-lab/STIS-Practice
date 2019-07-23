@@ -8,10 +8,10 @@
 
 ​    首先，拍摄照片如下
 
-​    ![avatar](.\photo.png) 
+​    ![avatar](photo.png) 
 
 ​	进行人脸检测，如下
 
-​	![avatar](.\face recognition.png)
+​	![avatar](face recognition.png)
 
 ​	人脸检测成功，达到了预期效果
