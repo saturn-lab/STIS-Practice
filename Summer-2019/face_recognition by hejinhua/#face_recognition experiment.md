@@ -12,6 +12,6 @@
 
 ​	进行人脸检测，如下
 
-​	![avatar](face recognition.png)
+​	![avatar](face_recognition.png)
 
 ​	人脸检测成功，达到了预期效果
