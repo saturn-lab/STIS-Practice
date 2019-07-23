@@ -8,11 +8,11 @@
 
 ​    首先，拍摄照片如下
 
-​    ![avatar](capture.jpg) 
+​    ![avatar](capture.JPG) 
 
 ​	进行人脸检测，如下
 
-​	![avatar](recognition.jpg)
+​	![avatar](recognition.JPG)
 
 ​	人脸检测成功，达到了预期效果
 
