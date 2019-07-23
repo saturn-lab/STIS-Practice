@@ -2,7 +2,7 @@
 
 ​	在做这个实验之前，需要准备一个摄像头，将摄像头的USB接口接入FPGA板子即可
 
-　编辑代码，我的代码卸载Jupyter的example目录下了，文件为【smart+welcoming+system+by+hejinhua】
+　编辑代码，我的代码写在Jupyter的example目录下了，文件为【smart+welcoming+system+by+hejinhua】
 
 ​	测试代码
 
