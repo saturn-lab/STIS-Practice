@@ -12,6 +12,6 @@
 
 ​	进行人脸检测，如下
 
-​	![avatar](Summer-2019/face_recognition by hejinhua/face recognition.png)
+​	![avatar](face recognition.png)
 
 ​	人脸检测成功，达到了预期效果
