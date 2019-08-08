@@ -1,4 +1,4 @@
-#face_recognition experiment
+# face_recognition experiment
 
 ​	在做这个实验之前，需要准备一个摄像头，将摄像头的USB接口接入FPGA板子即可
 
